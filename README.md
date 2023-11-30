@@ -19,8 +19,5 @@ Generally is: 8080
 To access the API documentation, visit http://localhost:8080/api-docs/.
 
 
-[Add any other relevant sections as needed]
-
-vbnet
-
-Feel free to customize and expand this template according to your project's specific details and usage instructions. If you have specific questions or need further assistance, let me know!
+Note:
+The .env file containing sensitive information will be sent to your email separately. Make sure to securely handle and configure this file for your application.
